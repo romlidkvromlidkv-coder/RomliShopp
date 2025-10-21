@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html><
+<head>
+  <title>Profil digital - [romli-yanto</title>
+</head>
+<body>
+  <div class="kartu profil">
+    <!-- Konten yang terlihat oleh pengungjung akan ada di sini-->
+  <img src="foto-profil.jpg" alt="foto profil saya">
+  <h1>Romli Yanto</h1>
+  <p>Siswa SMK yang tertarik dengan teknologi dan desain.selamat datang di website pertama saya!</p>
+  <a href="https://www.instagram.com/usernameanda">Kunjungi Instaram saya</a>
+    <button id=sapaButton"> Saya!>/Button>
+  </div>
+  <sricpt rsc="script.js"></sricpt>
+</body>
+</html>
+
+    
+  
