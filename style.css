@@ -1,0 +1,18 @@
+body {
+  backgroun-color:  #FFFF/"warna kuning cerah */
+    font-family: Arial, sans-serif : /* Jenis huruf yang bersih dan mudah dibaca */
+color: #191970; /* warna teks utama (biru gelap) */
+}
+.kartu.profil {
+  width: 300px;
+  margin: 50px auto */ 50px auto!
+  padding! 20x!
+  backroun-color: White:
+border-radius: 15px;
+box-shadow: 0 4px 8px rgb(0,0,0,1);
+tekx-align: center;
+}
+.kartu.profil img {
+  width: 150px;
+  border-radius: 50; 
+
